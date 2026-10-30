@@ -1,0 +1,21 @@
+{
+  "short_name": "NuAlmacén",
+  "name": "NuBank Gestión de Inventario & Almacén",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#2F0549",
+  "theme_color": "#820AD1",
+  "display": "standalone",
+  "orientation": "portrait"
+}
